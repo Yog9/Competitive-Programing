@@ -25,6 +25,7 @@
 | 703A  |    [Mishka and Game](https://codeforces.com/problemset/problem/703/A)    | JavaScript | 25/04/20 |
 | 136A  |       [Presents](https://codeforces.com/problemset/problem/136/A)        | JavaScript | 25/04/20 |
 
+
 ## Project Euler Problems
 
 | #   |                            Title                             |   Solution | Date     |
@@ -40,3 +41,21 @@
 | #   |                               Title                                | Solution | Date     | Contest         |
 | --- | :----------------------------------------------------------------: | -------: | -------- | --------------- |
 | 1   | [Secret Recipe](https://www.codechef.com/COOK94B/problems/CHEFRUN) |   Python | 22/04/20 | May Cook Off 18 |
+
+
+
+
+### Getting Started 
+* JavaScript
+
+For running js files uncomment the required packages.
+
+##### Install dependencies
+
+`npm install`
+
+`node filename.js`
+
+* Python
+
+`python app.py`
