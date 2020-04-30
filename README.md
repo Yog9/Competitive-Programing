@@ -26,6 +26,7 @@
 | 703A  |    [Mishka and Game](https://codeforces.com/problemset/problem/703/A)    | JavaScript | 25/04/20 |
 | 136A  |       [Presents](https://codeforces.com/problemset/problem/136/A)        | JavaScript | 25/04/20 |
 | 1288A |        [Deadline](https://codeforces.com/contest/1288/problem/A)         | JavaScript | 26/04/20 |
+| 122A  |     [Lucky Division](http://codeforces.com/problemset/problem/122/A)     | C++        | 30/04/20 |
 
 ## Project Euler Problems
 
