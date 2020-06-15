@@ -3,7 +3,7 @@
 ## Codeforces Problems
 [My Profile](https://codeforces.com/profile/veryogita)
 
-# Problems From Codeforces, Codechef and Spoj
+# Problems From Codeforces, Codechef , Spoj and hackearth
 
 ### Getting Started 
 * JavaScript
