@@ -1,8 +1,5 @@
 # Competitive Programming Problems
 
-## Codeforces Problems
-[My Profile](https://codeforces.com/profile/veryogita)
-
 # Problems From Codeforces, Codechef , Spoj and hackearth
 
 ### Getting Started 
@@ -18,4 +15,4 @@ For running js files uncomment the required packages.
 
 * Python
 
-`python app.py`
+`python filename.py`
