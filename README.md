@@ -1,7 +1,5 @@
 # Competitive Programming Problems
 
-# Problems From Codeforces, Codechef , Spoj and hackearth
-
 ### Getting Started 
 * JavaScript
 
