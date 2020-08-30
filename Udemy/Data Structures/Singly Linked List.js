@@ -41,5 +41,24 @@ class LinkedList {
       current = current.next;
     }
   }
+   // POPS a node from LL (Like Stack)
+  pop() {
+    if (!this.head) {
+      console.log("LL is empty");
+      return;
+    }
+    var current = this.head;
+    var prev = current;
+    while (current.next) {
+      prev = current;
+      current = current.next;
+    }
+    if (this.head && this.head.next === null) {
+      this.head = null;
+    } else {
+      prev.next = null;
+    }
+    console.log("popped element of linked list", current.val);
+  }
 }
 let list = new LinkedList();
