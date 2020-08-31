@@ -60,5 +60,17 @@ class LinkedList {
     }
     console.log("popped element of linked list", current.val);
   }
+   // Remove first node from LL
+  shift() {
+    var currentHead = this.head;
+    if (!this.head) {
+      console.log("LL is empty");
+      return;
+    }
+    this.head = currentHead.next;
+    this.length--;
+    console.log(" The first node removed is ", currentHead);
+  }
+}
 }
 let list = new LinkedList();
