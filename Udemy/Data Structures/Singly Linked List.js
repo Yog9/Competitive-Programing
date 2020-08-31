@@ -1,10 +1,4 @@
 // Singly linked List
-// Algorithm to push node to end of LL
-// We check if length is zero
-// Then set head of linked list to the newNode
-// if length>0 loop through the end of LL where next == null
-// add the new node to LL
-
 class Node {
   constructor(val) {
     this.val = val;
@@ -17,7 +11,6 @@ class LinkedList {
     this.head = null;
     this.length = 0;
   }
-  // Pushes at the end of LL
   push(val) {
     var current;
     var newNode = new Node(val);
@@ -41,7 +34,7 @@ class LinkedList {
       current = current.next;
     }
   }
-   // POPS a node from LL (Like Stack)
+  // POPS a node from LL (Like Stack)
   pop() {
     if (!this.head) {
       console.log("LL is empty");
@@ -58,9 +51,10 @@ class LinkedList {
     } else {
       prev.next = null;
     }
+    this.length--;
     console.log("popped element of linked list", current.val);
   }
-   // Remove first node from LL
+  // Remove first node from LL
   shift() {
     var currentHead = this.head;
     if (!this.head) {
@@ -71,6 +65,17 @@ class LinkedList {
     this.length--;
     console.log(" The first node removed is ", currentHead);
   }
-}
+  // Add a node at the start of LinkedList
+  unshift(val) {
+    var currentHead = this.head;
+    var newNode = new Node(val);
+    if (!this.head) {
+      this.head = newNode;
+      return;
+    }
+    newNode.next = currentHead;
+    this.head = newNode;
+    this.length++;
+  }
 }
 let list = new LinkedList();
