@@ -26,3 +26,4 @@ For running js files uncomment the required packages.
 | 5  | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                               | Easy  | JavaScript |         |
 | 6  | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy  | JavaScript |         |
 | 7  | [Find Anagram Mappings](https://heip.github.io/LeetCodePremium/problems/find-anagram-mappings.html)                                             | Easy  | JavaScript | Google  |
+| 8  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                           | Easy  | JavaScript |         |
