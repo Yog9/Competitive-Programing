@@ -27,3 +27,4 @@ For running js files uncomment the required packages.
 | 7  | [Find Anagram Mappings](https://heip.github.io/LeetCodePremium/problems/find-anagram-mappings.html)                                             | Easy  | JavaScript | Google  |                       |
 | 8  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                           | Easy  | JavaScript |         |                       |
 | 9  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                     | Easy  | JavaScript |  OCI    | Yes with a better one |
+| 10 | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                         | Easy  | JavaScript |         | Do it again           |
