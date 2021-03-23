@@ -29,3 +29,4 @@ For running js files uncomment the required packages.
 | 9  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                     | Easy  | JavaScript |  OCI    | Yes with a better one |
 | 10 | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                         | Easy  | JavaScript |         | Do it again           |
 | 11 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                                                         | Easy  | JavaScript |         |                       |
+| 12 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)                                                 | Easy  | JavaScript |         | Do it again           |
