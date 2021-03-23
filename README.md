@@ -15,7 +15,6 @@ For running js files uncomment the required packages.
 
 `python filename.py`
 
-
 | No | Leetcode                                                                                                                                        | Level  | Langauge   | Company | Come Again                       |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|---------|----------------------------------|
 | 1  | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)               | Easy   | JavaScript |         |                                  |
@@ -31,3 +30,4 @@ For running js files uncomment the required packages.
 | 11 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                                                         | Easy   | JavaScript |         |                                  |
 | 12 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                           | Medium | JavaScript |         | Do it again with less complexity |
 | 13 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)                                                 | Easy   | JavaScript |         | Do it again                      |
+| 14 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements)                                                                  | Easy   | JavaScript |         |                                  |
