@@ -33,3 +33,4 @@ For running js files uncomment the required packages.
 | 13 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)                                                 | Easy   | JavaScript |         | Do it again                      |
 | 14 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements)                                                                  | Easy   | JavaScript |         |                                  |
 | 15 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                                           | Easy   | JavaScript |         |                                  |
+| 16 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                   | Easy   | JavaScript |         |                                  |
