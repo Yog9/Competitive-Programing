@@ -36,3 +36,4 @@ For running js files uncomment the required packages.
 | 16 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                                   | Easy   | JavaScript |         |                                  |
 | 17 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)     | Easy   | JavaScript |         |                                  |
 | 18 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                     | Easy   | JavaScript |         |                                  |
+| 19 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)                                                            | Easy   | JavaScript |         |                                  |
