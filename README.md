@@ -15,7 +15,6 @@ For running js files uncomment the required packages.
 
 `python filename.py`
 
-
 | No | Leetcode                                                                                                                                        | Level  | Langauge   | Company | Come Again                       |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|---------|----------------------------------|
 | 1  | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)               | Easy   | JavaScript |         |                                  |
@@ -37,3 +36,4 @@ For running js files uncomment the required packages.
 | 17 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)     | Easy   | JavaScript |         |                                  |
 | 18 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                     | Easy   | JavaScript |         |                                  |
 | 19 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)                                                            | Easy   | JavaScript |         |                                  |
+| 20 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                                 | Easy   | JavaScript |         |                                  |
